@@ -1,4 +1,4 @@
 # Chip-Design-Assignment-by-Isht
-##Advanced Physical Design Using OpenLane/Sky130
+## Advanced Physical Design Using OpenLane/Sky130
 
-#####Author :- Isht Kumar
+##### Author :- Isht Kumar
