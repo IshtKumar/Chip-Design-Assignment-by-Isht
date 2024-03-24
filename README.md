@@ -115,10 +115,10 @@ This is the compilation of notes provided by Kunal sir and his team for the Adva
      * TritonRoute method to handle connectivity.
      * Routing topology algorithm and final files list post-route.
 
-## 1. Inception of open-source EDA, OpenLANE and Sky130PDK
+## Inception of open-source EDA, OpenLANE and Sky130PDK
 
 
-##      *How to talk to computers.
+## How to talk to computers.
 
 
-###              *Introduction to QFN-48 Package, chip, pads, core, die and IPs.
+### Introduction to QFN-48 Package, chip, pads, core, die and IPs.
