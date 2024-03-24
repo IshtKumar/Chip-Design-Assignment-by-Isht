@@ -33,7 +33,7 @@ This is the compilation of notes provided by Kunal sir and his team for the Adva
      * Revieew floorplan files and steps to view floorplan.
      * Reviw floorplan layout in Magic.
 * Library Binding and Placement.
-     * Netlist bindig and initial place design.
+     * Netlist binding and initial place design.
      * Optimize placement using estimated wire-length and capacitance.
      * Final placement optimization.
      * Need for libraries and characterisation.
@@ -75,7 +75,7 @@ This is the compilation of notes provided by Kunal sir and his team for the Adva
      * Lab challenge exericse to describe DRC error as geometrical construct.
      * Lab challenge to find missing and incorrect rules and fix them.
 4. Pre-layout timing analysis and importance of good clock tree.
-* Timig modelling using delay tables.
+* Timing modelling using delay tables.
      * Lab steps to convert grid into track info.
      * Lab steps to convert magic layout to std cell LEF.
      * Introduction to timing libs and steps to include new cell in synthesis.
@@ -83,4 +83,34 @@ This is the compilation of notes provided by Kunal sir and his team for the Adva
      * Delay table usage Part 1.
      * Delay table usage Part 2.
      * Lab steps to configure synthesis settings to fix slack and include vsdinv.
-* Pre-layout timing analysis and importance of good clock tree.
+* Timing analysis with ideal clocks using openSTA.
+     * Setup timing analysis and introduction to flip-flop setup time.
+     * Intrduction to clock jitter and uncertainity.
+     * Laab steps to configure OpenSTA for post-synth timing analysis.
+     * Lab steps to optimize synthesis to reduce setup violations.
+     * Lab steps to do basic timing ECO.
+* Clock tree synthesis TritonCTS and signal integrity.
+     * Clock tree routing and buffering using H-Tree algorithm.
+     * Crosstalk and clock net shielding 
+     * Lab steps to run CTS using TritonCTS.
+     * Lab steps to verify CTS runs.
+* Timing analysis with real clocks using openSTA.
+     * Setup timing analysis using real clocks
+     * Hold timing analysis using real clocks.
+     * Lab steps to analyze timing with real clocks using OpenSTA.
+     * Lab steps to execute OpenSTA with right timing librariesand CTS assignment.
+     * Lab steps to observe impact of bigger CTS buffers on setup and hold timing.
+5. Final steps for RTL2GDS using tritonRoute and openSTA.
+* Routing and design rule check (DRC).
+     * Introduction to Maze Routing A LeeAs algorithm.
+     * LeeAs Algorithm conclusion.
+     * Design Rule Check.
+* Power Distribution Network and routing.
+     * Lab steps to build power distribution network.
+     * Lab steps from power straps to std cell power.
+     * Basis of global and detail routing and configuree TritonRoute.
+* TritonRoute Features.
+     * TritonRoute featue 1 - Honors pre-processed route guides.
+     * TritonRoute Feature 2 & 3 - Inter-guide connectivity and intra-& inter-layer routing.
+     * TritonRoute method to handle connectivity.
+     * Routing topology algorithm and final files list post-route.
