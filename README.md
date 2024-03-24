@@ -98,7 +98,7 @@ This is the compilation of notes provided by Kunal sir and his team for the Adva
      * Setup timing analysis using real clocks
      * Hold timing analysis using real clocks.
      * Lab steps to analyze timing with real clocks using OpenSTA.
-     * Lab steps to execute OpenSTA with right timing librariesand CTS assignment.
+     * Lab steps to execute OpenSTA with right timing libraries and CTS assignment.
      * Lab steps to observe impact of bigger CTS buffers on setup and hold timing.
 5. Final steps for RTL2GDS using tritonRoute and openSTA.
 * Routing and design rule check (DRC).
