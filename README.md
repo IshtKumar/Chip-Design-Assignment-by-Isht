@@ -117,6 +117,8 @@ This is the compilation of notes provided by Kunal sir and his team for the Adva
 
 ## Inception of open-source EDA, OpenLANE and Sky130PDK
 
-### How to talk to computers.
+
+## How to talk to computers.
+
 
 ### Introduction to QFN-48 Package, chip, pads, core, die and IPs.
