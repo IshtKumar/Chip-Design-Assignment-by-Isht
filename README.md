@@ -137,7 +137,9 @@ This picture describes about the processor/SoC or system-on a-chip (which we had
 The below picture is called as a package. The package provides the mechanical and electrical interface between the chip and the printed board, as well as protecting the chip and helping heat dissipation.
 
 
-![Arduino Leonardo Package](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/5c4300bd-ebc8-4819-8c08-461c22756f4e)
+<p align="center">
+![Arduino Leonardo Package](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/c4563165-ba06-4aa2-9de8-2f20f0d290b3)
+
 
 ![Package](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/798b38d6-07b1-40ff-95e6-2fff9ec8dda5)
 
