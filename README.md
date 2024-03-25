@@ -133,7 +133,13 @@ This is an Arduino Leonardo microcontroller board based on the ATmega32u4. It ha
 
 This picture describes about the processor/SoC or system-on a-chip (which we had seen in the above picture). 
 
+
 The below picture is called as a package. The package provides the mechanical and electrical interface between the chip and the printed board, as well as protecting the chip and helping heat dissipation.
+
+
+![Arduino Leonardo Package](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/5c4300bd-ebc8-4819-8c08-461c22756f4e)
 ![Package](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/798b38d6-07b1-40ff-95e6-2fff9ec8dda5)
 
 
+
+![Components](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/54f13488-a99c-49bf-a1c3-345aef675f34)
