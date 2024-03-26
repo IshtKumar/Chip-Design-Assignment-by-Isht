@@ -160,6 +160,51 @@ The abbreviation QFN stands for quad flat no-lead package. A QFN-48 package is a
 (Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
 
 
+This is the chip located inside the package connected to the outside material through the pads.
+
+
 ![Components](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/54f13488-a99c-49bf-a1c3-345aef675f34)
 
 (Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
+
+
+Components :-
+
+
+Pads - Pad consists of a square of top-level metal on a side that is either soldered to bond wire connecting to a package or coated with lead solder ball. Pad refers to metal square only or to the complete I/O cell containing the metal, ESD protection circuit, and I/O transistors. The function of a pad is an electrial terminal used to connect externally to the IC.
+
+Core - A core is the section of a chip where the fundamental logic of the design is placed. 
+
+Die - A die, in the context of processors, refers to a small piece of sillicon material on which the microprocessor is fabricated. It serves as the foundation for building the central processing unit (CPU) that powers computers and other electronic devices.
+
+
+Other Components (which are not mentioned) :-
+
+
+Macros - Macros is an essential component in the VLSI design cycle before the final packaged chip is ready to use. Macro cells are the memory cells, intellectual property which an analog design team has designed.
+
+Foundry IPs - IP (Intellectual Property), refers to a reusable unit of logic or circuitry that performs a specific function and can be integrated into a larger design. IPs are pre-validated, making them a time saving saolution for VLSI design.
+
+
+
+### Introduction to RISC-V.
+
+
+
+#### What is RISC-V ?
+
+
+RISC-V (pronounced "risk-five") is an open standard instruction set architecture (ISA) based on established reduced instruction set computer (RISC) principles.
+
+
+![Screenshot 2024-03-26 211744](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/4fcef972-2c3c-4110-a966-d657b98f7646)
+
+(Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
+
+
+
+### From Software Applications to Hardware.
+
+
+
+
