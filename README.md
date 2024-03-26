@@ -129,12 +129,13 @@ Arduino is an open-source electronics platform based on easy-to-use hardware and
 This is an Arduino Leonardo microcontroller board based on the ATmega32u4. It has 20 digital input/output pins (of which 7 can be used as PWM outputs and 12 as analog inputs), a 16 MHz crystal oscillator, a micro USB connection, a power jack, an ICSP header, and a reset button.These boards operate at 5 volts. The yellow circled part ( the processor) is what we will be discussing about.
 
 
+
 <img src="https://private-user-images.githubusercontent.com/163589731/313406180-c3176cb9-34db-4581-a858-aeab397be237.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTEyNzczMzIsIm5iZiI6MTcxMTI3NzAzMiwicGF0aCI6Ii8xNjM1ODk3MzEvMzEzNDA2MTgwLWMzMTc2Y2I5LTM0ZGItNDU4MS1hODU4LWFlYWIzOTdiZTIzNy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyNFQxMDQzNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNTM2ZDNlMTI1NmQ5Nzc1NmM3ZDc4ZTBlMTQ0Yjc4MDU2MGRmYzU1ODQ2YjJjYzRiOGRhZTQ3ZjQ1ZjQ5ZjVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Jy-Kwjjrk6gq-GkyeHzokbDgLj9OM_TYcno9xPgtHo0">
 
 This picture describes about the processor/SoC or system-on a-chip (which we had seen in the above picture). 
 
 
-The below picture is called as a package. The package provides the mechanical and electrical interface between the chip and the printed board, as well as protecting the chip and helping heat dissipation.
+The below picture is called as an integrated circuit and in. The package provides the mechanical and electrical interface between the chip and the printed board, as well as protecting the chip and helping heat dissipation.
 
 
 ![Arduino Leonardo Package](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/c4563165-ba06-4aa2-9de8-2f20f0d290b3)
