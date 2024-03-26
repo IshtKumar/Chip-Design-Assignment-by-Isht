@@ -133,13 +133,14 @@ The above image is an Arduino Leonardo microcontroller board based on the ATmega
 
 
 
+The below image describes about the processor/SoC or system-on a-chip (which we had seen in the above picture). 
 
 <img src="https://private-user-images.githubusercontent.com/163589731/313406180-c3176cb9-34db-4581-a858-aeab397be237.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTEyNzczMzIsIm5iZiI6MTcxMTI3NzAzMiwicGF0aCI6Ii8xNjM1ODk3MzEvMzEzNDA2MTgwLWMzMTc2Y2I5LTM0ZGItNDU4MS1hODU4LWFlYWIzOTdiZTIzNy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyNFQxMDQzNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNTM2ZDNlMTI1NmQ5Nzc1NmM3ZDc4ZTBlMTQ0Yjc4MDU2MGRmYzU1ODQ2YjJjYzRiOGRhZTQ3ZjQ1ZjQ5ZjVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Jy-Kwjjrk6gq-GkyeHzokbDgLj9OM_TYcno9xPgtHo0">
 
 (Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
 
 
-The above image describes about the processor/SoC or system-on a-chip (which we had seen in the above picture). 
+
 
 
 
