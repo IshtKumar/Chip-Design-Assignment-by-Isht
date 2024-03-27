@@ -168,22 +168,22 @@ This is the chip located inside the package connected to the outside material th
 (Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
 
 
-Components :-
+### Components :-
 
 
-Pads - Pad consists of a square of top-level metal on a side that is either soldered to bond wire connecting to a package or coated with lead solder ball. Pad refers to metal square only or to the complete I/O cell containing the metal, ESD protection circuit, and I/O transistors. The function of a pad is an electrial terminal used to connect externally to the IC.
+#### Pads - Pad consists of a square of top-level metal on a side that is either soldered to bond wire connecting to a package or coated with lead solder ball. Pad refers to metal square only or to the complete I/O cell containing the metal, ESD protection circuit, and I/O transistors. The function of a pad is an electrial terminal used to connect externally to the IC.
 
-Core - A core is the section of a chip where the fundamental logic of the design is placed. 
+#### Core - A core is the section of a chip where the fundamental logic of the design is placed. 
 
-Die - A die, in the context of processors, refers to a small piece of sillicon material on which the microprocessor is fabricated. It serves as the foundation for building the central processing unit (CPU) that powers computers and other electronic devices.
-
-
-Other Components (which are not mentioned) :-
+#### Die - A die, in the context of processors, refers to a small piece of sillicon material on which the microprocessor is fabricated. It serves as the foundation for building the central processing unit (CPU) that powers computers and other electronic devices.
 
 
-Macros - Macros is an essential component in the VLSI design cycle before the final packaged chip is ready to use. Macro cells are the memory cells, intellectual property which an analog design team has designed.
+### Other Components (which are not mentioned) :-
 
-Foundry IPs - IP (Intellectual Property), refers to a reusable unit of logic or circuitry that performs a specific function and can be integrated into a larger design. IPs are pre-validated, making them a time saving saolution for VLSI design.
+
+#### Macros - Macros is an essential component in the VLSI design cycle before the final packaged chip is ready to use. Macro cells are the memory cells, intellectual property which an analog design team has designed.
+
+#### Foundry IPs - IP (Intellectual Property), refers to a reusable unit of logic or circuitry that performs a specific function and can be integrated into a larger design. IPs are pre-validated, making them a time saving saolution for VLSI design.
 
 
 
@@ -208,6 +208,9 @@ RISC-V (pronounced "risk-five") is an open standard instruction set architecture
 
 ![Software to Hardware](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/3830fbce-73cf-42bc-942f-de2bbe869271)
 
+(Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
+
+
 
 The above image shows the software application is processed within system software, where it undergoes conversion into binary language. System software consists of the operating system (OS), compiler, and assembler. The operating system manages memory, handles I/O operations, and allocates resources. Subsequently, the operating system produces small functions in languages such as C/C++/Java, which are then compiled into executable files (.exe) by the corresponding compiler. The syntax of these instructions depends on the available hardware architecture, such as Intel, ARM, MIPS, or RISC-V. The assembler's role is to translate these instructions into binary code comprehensible by the machine. These binary instructions are then transmitted to the hardware, where they are interpreted, and the desired outputs are generated according to the underlying logic.
 
@@ -215,7 +218,12 @@ The below image shows the stopwatch app turning into a hardware.
 
 ![Screenshot 2024-03-27 101326](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/be969a90-c796-4101-8977-7d8200bd3f07)
 
+(Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
+
+
 
 The below image shows the process : ISA -> HDL -> Netlist -> Physical Design
 
 ![Screenshot 2024-03-27 102545](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/f0752880-91cd-4a30-b17f-ae60b3c11639)
+
+(Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
