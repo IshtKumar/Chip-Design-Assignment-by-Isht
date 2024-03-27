@@ -206,5 +206,16 @@ RISC-V (pronounced "risk-five") is an open standard instruction set architecture
 ### From Software Applications to Hardware.
 
 
+![Software to Hardware](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/3830fbce-73cf-42bc-942f-de2bbe869271)
 
 
+The above image shows the software application is processed within system software, where it undergoes conversion into binary language. System software consists of the operating system (OS), compiler, and assembler. The operating system manages memory, handles I/O operations, and allocates resources. Subsequently, the operating system produces small functions in languages such as C/C++/Java, which are then compiled into executable files (.exe) by the corresponding compiler. The syntax of these instructions depends on the available hardware architecture, such as Intel, ARM, MIPS, or RISC-V. The assembler's role is to translate these instructions into binary code comprehensible by the machine. These binary instructions are then transmitted to the hardware, where they are interpreted, and the desired outputs are generated according to the underlying logic.
+
+The below image shows the stopwatch app turning into a hardware.
+
+![Screenshot 2024-03-27 101326](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/be969a90-c796-4101-8977-7d8200bd3f07)
+
+
+The below image shows the process : ISA -> HDL -> Netlist -> Physical Design
+
+![Screenshot 2024-03-27 102545](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/f0752880-91cd-4a30-b17f-ae60b3c11639)
