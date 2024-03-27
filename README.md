@@ -3,7 +3,7 @@
 
 ##### Author :- Isht Kumar
 
-This is the compilation of notes provided by Kunal sir, his team, the IIIT Bangalore team and Sudarshan sir for the Advanced Level of the Chip Design Course, Advanced Physical Design using Sky130 and OpenLANE. All the information and the images are provided by Kunal sir and the VSD team, Sudarshan sir and IIIT Bangalore team. I thank all of them for the mentoring precious knowledge they provided through online sessions, seminars, and videos.
+#### This is the compilation of notes provided by Kunal sir, his team, the IIIT Bangalore team and Sudarshan sir for the Advanced Level of the Chip Design Course, Advanced Physical Design using Sky130 and OpenLANE. All the information and the images are provided by Kunal sir and the VSD team, Sudarshan sir and IIIT Bangalore team. I thank all of them for the mentoring precious knowledge they provided through online sessions, seminars, and videos.
 
 ## Table of Content
 1. Inception of open-source EDA, OpenLANE and Sky130PDK
@@ -125,7 +125,7 @@ This is the compilation of notes provided by Kunal sir, his team, the IIIT Banga
 Arduino is an open-source electronics platform based on easy-to-use hardware and software which is taken as an example here.
 <img src="https://private-user-images.githubusercontent.com/163589731/313405849-7c190d7b-f48b-43a5-8697-a2271a28e9aa.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTEyNzczMzIsIm5iZiI6MTcxMTI3NzAzMiwicGF0aCI6Ii8xNjM1ODk3MzEvMzEzNDA1ODQ5LTdjMTkwZDdiLWY0OGItNDNhNS04Njk3LWEyMjcxYTI4ZTlhYS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyNFQxMDQzNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZDY1YzcxNjRjODE5OGM4YWY1MTdiZDM3MWI4NmM2MjJlMDI2NjA1YTkxNGRlMzUyYjA2ZWYxM2YyMzFlYzE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.W6HB2uD0Ume3Vz1m5Dfl4sjUI8e5Yn9zUTAxdhkN_pY">
 
-(Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
+#### (Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
 
 
 
@@ -137,7 +137,7 @@ The below image describes about the processor/SoC or system-on a-chip (which we 
 
 <img src="https://private-user-images.githubusercontent.com/163589731/313406180-c3176cb9-34db-4581-a858-aeab397be237.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTEyNzczMzIsIm5iZiI6MTcxMTI3NzAzMiwicGF0aCI6Ii8xNjM1ODk3MzEvMzEzNDA2MTgwLWMzMTc2Y2I5LTM0ZGItNDU4MS1hODU4LWFlYWIzOTdiZTIzNy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyNFQxMDQzNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNTM2ZDNlMTI1NmQ5Nzc1NmM3ZDc4ZTBlMTQ0Yjc4MDU2MGRmYzU1ODQ2YjJjYzRiOGRhZTQ3ZjQ1ZjQ5ZjVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Jy-Kwjjrk6gq-GkyeHzokbDgLj9OM_TYcno9xPgtHo0">
 
-(Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
+#### (Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
 
 
 
@@ -149,7 +149,7 @@ The below picture is called as an integrated circuit package (named the 'QFN-48 
 
 ![Arduino Leonardo Package](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/c4563165-ba06-4aa2-9de8-2f20f0d290b3)
 
-(Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
+#### (Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
 
 
 The abbreviation QFN stands for quad flat no-lead package. A QFN-48 package is a particular type of Integrated Circuit pakage with 48 electrical connections.
@@ -157,7 +157,7 @@ The abbreviation QFN stands for quad flat no-lead package. A QFN-48 package is a
 
 ![Package](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/798b38d6-07b1-40ff-95e6-2fff9ec8dda5)
 
-(Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
+#### (Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
 
 
 This is the chip located inside the package connected to the outside material through the pads.
@@ -165,7 +165,7 @@ This is the chip located inside the package connected to the outside material th
 
 ![Components](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/54f13488-a99c-49bf-a1c3-345aef675f34)
 
-(Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
+#### (Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
 
 
 ### Components :-
@@ -199,7 +199,7 @@ RISC-V (pronounced "risk-five") is an open standard instruction set architecture
 
 ![Screenshot 2024-03-26 211744](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/4fcef972-2c3c-4110-a966-d657b98f7646)
 
-(Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
+#### (Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
 
 
 
@@ -208,7 +208,7 @@ RISC-V (pronounced "risk-five") is an open standard instruction set architecture
 
 ![Software to Hardware](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/3830fbce-73cf-42bc-942f-de2bbe869271)
 
-(Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
+#### (Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
 
 
 
@@ -218,7 +218,7 @@ The below image shows the stopwatch app turning into a hardware.
 
 ![Screenshot 2024-03-27 101326](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/be969a90-c796-4101-8977-7d8200bd3f07)
 
-(Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
+#### (Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
 
 
 
@@ -226,4 +226,4 @@ The below image shows the process : ISA -> HDL -> Netlist -> Physical Design
 
 ![Screenshot 2024-03-27 102545](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/f0752880-91cd-4a30-b17f-ae60b3c11639)
 
-(Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
+#### (Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
