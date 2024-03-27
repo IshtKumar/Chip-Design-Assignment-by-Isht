@@ -227,3 +227,19 @@ The below image shows the process : ISA -> HDL -> Netlist -> Physical Design
 ![Screenshot 2024-03-27 102545](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/f0752880-91cd-4a30-b17f-ae60b3c11639)
 
 #### (Source - Videos provided from the VSD platform made accessible to me by Kunal sir and the sessions conducted by Sudarshan Sir.)
+
+
+
+## SoC design and OpenLANE.
+
+### Introduction to all components of open-source digital asic design. 
+
+
+We can design an ASIC using : RTL Designs
+                              EDA Tools
+                              PDK Data
+
+
+![ASIC Design](https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht/assets/164362610/734dde8f-121b-4a48-a4f2-53701c419c9c)
+
+
