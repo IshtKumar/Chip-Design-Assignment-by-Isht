@@ -1,1 +1,24 @@
-
+Includes:-
+* Chip Floor planning considerations.
+     * Utilisation factor and aspect ratio.
+     * Concept of pre-placed cells.
+     * De-coupling capacitors.
+     * Power planning.
+     * Pin placement and logical cell placement blockage.
+     * Steps to run floorplan using OpenLANE.
+     * Revieew floorplan files and steps to view floorplan.
+     * Reviw floorplan layout in Magic.
+* Library Binding and Placement.
+     * Netlist binding and initial place design.
+     * Optimize placement using estimated wire-length and capacitance.
+     * Final placement optimization.
+     * Need for libraries and characterisation.
+     * Congestion aware placement using PePlAce.
+* Cell design and characterisation flows.
+     * Inputs for cell design flow.
+     * Circuit design step.
+     * Layout design step.
+     * Typical characterisation flow.
+* General timing characterization parameters.
+     * Timing thresholds definitions.
+     * Propogation delay and transition time.
