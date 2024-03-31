@@ -1,1 +1,14 @@
-
+Includes :-
+* Routing and design rule check (DRC).
+     * Introduction to Maze Routing A LeeAs algorithm.
+     * LeeAs Algorithm conclusion.
+     * Design Rule Check.
+* Power Distribution Network and routing.
+     * Lab steps to build power distribution network.
+     * Lab steps from power straps to std cell power.
+     * Basis of global and detail routing and configuree TritonRoute.
+* TritonRoute Features.
+     * TritonRoute featue 1 - Honors pre-processed route guides.
+     * TritonRoute Feature 2 & 3 - Inter-guide connectivity and intra-& inter-layer routing.
+     * TritonRoute method to handle connectivity.
+     * Routing topology algorithm and final files list post-route.
